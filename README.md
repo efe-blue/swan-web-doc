@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Web 态分享文档说明
 
-You can use the [editor on GitHub](https://github.com/efe-blue/swan-web-doc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Web 态分享是智能小程序在分享场景的展现形式。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本文档主要面向使用智能小程序 Web 态作为分享场景的少部分开发者，文档中涉及 Web 态分享的能力暂未完全开放，有相关需求的开发者请耐心等候我们进一步开放。已在阅读本文档的开发者请**不要传播**本文档，非常感谢！
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/efe-blue/swan-web-doc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本文档作为官网文档的补充，仅在 Web 态分享场景存在差异的功能点才会在本文档中描述，其他以官网描述为准。
